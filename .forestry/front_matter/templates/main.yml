@@ -1,4 +1,9 @@
 ---
 label: main
 hide_body: false
-fields: []
+fields:
+- name: upload_movie
+  type: image_gallery
+  config: {}
+  label: upload movie
+  description: upload now
