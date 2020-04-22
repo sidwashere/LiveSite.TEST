@@ -7,3 +7,12 @@ fields:
   config: {}
   label: upload movie
   description: upload now
+- name: date_of_life
+  type: datetime
+  label: date of life
+  description: enter any
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
